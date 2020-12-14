@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.9",
+    "@types/node-fetch": "^2.5.7",
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "twilio": "^3.54.0",
+    "twilio-cli": "^2.15.0"
+  }
+}
